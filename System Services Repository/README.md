@@ -165,11 +165,6 @@ Fast Frequency Response (FFR) provides very rapid active power injection or abso
 iSTENTORE-Services-Repository/
 ├── README.md
 ├── EnergyArbitrage/
-│   ├── README.md
-│   ├── demo3/
-│   │   └── Description.md
-│   └── demo5/
-│       └── Description.md
 ├── PeakShaving/
 ├── CongestionManagement/
 ├── PowerSmoothing/
